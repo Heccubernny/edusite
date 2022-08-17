@@ -18,7 +18,7 @@ Table OF Contents
   iii.h1,h2,h3,h4,h5,h6(font or letter)
   iv.header
 2 > site hero
-3 > NaFgation
+3 > Navigation
 4 > Hero Area
 5 > About & Why Us (Feature)
 6 > Courses
@@ -1676,4 +1676,9 @@ header .navbar.navbar-light .nav-link.active {
 	text-transform: uppercase;
 	letter-spacing: 0.3em;
 	margin-top: 16px;
+}
+
+
+.course_col{
+	box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
 }
